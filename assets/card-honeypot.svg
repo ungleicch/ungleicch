@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="200" viewBox="0 0 640 200" role="img" aria-label="Class honeypot">
-  <rect width="640" height="200" rx="12" fill="#0F172A"/>
-  <rect x="0.5" y="0.5" width="639" height="199" rx="12" fill="none" stroke="#1E293B"/>
-  <text x="36" y="42" fill="#60A5FA" font-family="ui-sans-serif, system-ui, Helvetica, Arial, sans-serif" font-size="12" letter-spacing="1.6">SECURITY&#160;&#160;·&#160;&#160;CLASS</text>
-  <text x="36" y="78" fill="#F8FAFC" font-family="ui-sans-serif, system-ui, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">Class&#160;honeypot</text>
-  <text x="36" y="112" fill="#94A3B8" font-family="ui-sans-serif, system-ui, Helvetica, Arial, sans-serif" font-size="14">Cowrie&#160;SSH&#160;+&#160;Conpot&#160;ICS&#160;stack,&#160;analysis&#160;scripts,&#160;deploy&#160;guide.</text>
-  <rect x="36" y="148" rx="4" width="76" height="26" fill="#1E293B"/><text x="50" y="166" fill="#93A4C0" font-family="ui-sans-serif, system-ui, Helvetica, Arial, sans-serif" font-size="12">cowrie</text><rect x="120" y="148" rx="4" width="76" height="26" fill="#1E293B"/><text x="134" y="166" fill="#93A4C0" font-family="ui-sans-serif, system-ui, Helvetica, Arial, sans-serif" font-size="12">conpot</text><rect x="204" y="148" rx="4" width="76" height="26" fill="#1E293B"/><text x="218" y="166" fill="#93A4C0" font-family="ui-sans-serif, system-ui, Helvetica, Arial, sans-serif" font-size="12">python</text>
-</svg>
