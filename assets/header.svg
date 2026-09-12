@@ -7,7 +7,7 @@
   </defs>
   <rect width="1280" height="280" fill="url(#bg)"/>
   <rect x="0" y="0" width="8" height="280" fill="#3B82F6"/>
-  <text xml:space="preserve" x="72" y="118" fill="#F8FAFC" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-family="Georgia, Times New Roman, serif" letter-spacing="-0.5">Tom Malter</text>
-  <text xml:space="preserve" x="72" y="168" fill="#93A4C0" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" >Computer Science  ·  Cal State Long Beach  ·  Los Angeles</text>
-  <text xml:space="preserve" x="72" y="214" fill="#64748B" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="16" >Local-first software   ·   Applied AI   ·   Distributed systems</text>
+  <text xml:space="preserve" x="72" y="118" fill="#F8FAFC" font-family="Georgia, Times New Roman, serif" font-size="56" letter-spacing="-0.5">Tom Malter</text>
+  <text xml:space="preserve" x="72" y="168" fill="#93A4C0" font-family="ui-sans-serif, system-ui, Helvetica, Arial, sans-serif" font-size="22">Computer Science  ·  Cal State Long Beach  ·  Los Angeles</text>
+  <text xml:space="preserve" x="72" y="214" fill="#64748B" font-family="ui-sans-serif, system-ui, Helvetica, Arial, sans-serif" font-size="16">Local-first software   ·   Applied AI   ·   Distributed systems</text>
 </svg>
