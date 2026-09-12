@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-label="Tom Malter">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#152033"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="280" fill="url(#bg)"/>
+  <rect x="0" y="0" width="8" height="280" fill="#3B82F6"/>
+  <text x="72" y="118" fill="#F8FAFC" font-family="Georgia, 'Times New Roman', serif" font-size="56" letter-spacing="-0.5">Tom Malter</text>
+  <text x="72" y="168" fill="#93A4C0" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="22">Computer Science · Cal State Long Beach · Los Angeles</text>
+  <text x="72" y="214" fill="#64748B" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="16">Local-first software  ·  Applied AI  ·  Distributed systems</text>
+</svg>
