@@ -62,7 +62,7 @@ Happy to walk through any of it.
 
 ### Currently
 
-Building **Connect** (daily worldwide text chat) and the CECS 327 **lodging reservation** system — Catalog → Gateway → Booking, documented with course vocabulary.
+Building **Connect** (daily worldwide text chat) and the CECS 327 **lodging reservation** system — Catalog, then Gateway, then Booking, documented with course vocabulary.
 
 <br />
 
